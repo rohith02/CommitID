@@ -1,0 +1,3 @@
+[submodule "latest.sample/latest.sample/helloworld/hellonode"]
+	path = latest.sample/latest.sample/helloworld/hellonode
+	url = https://github.com/rohith02/CommitID.git
